@@ -4,9 +4,9 @@
 
 | Measure | Lines added |
 |---|---|
-| **By Claude** | 549 |
+| **By Claude** | 564 |
 | **By the author** | 3 |
-| **Total since baseline** | 552 |
+| **Total since baseline** | 567 |
 
 Baseline commit `4218084` (2026-10-06). Regenerate with `node scripts/ai-attribution.mjs`.
 
@@ -15,7 +15,7 @@ Baseline commit `4218084` (2026-10-06). Regenerate with `node scripts/ai-attribu
 | Change type | Commits | By Claude | By the author |
 |---|---|---|---|
 | `release` | 1 | 537 | 0 |
-| `chore` | 1 | 12 | 0 |
+| `chore` | 2 | 27 | 0 |
 | `unlabeled` | 1 | 0 | 3 |
 
 ## Measurement Scope
@@ -44,4 +44,4 @@ Baseline commit `4218084` (2026-10-06). Regenerate with `node scripts/ai-attribu
 - `playwright-report/**`
 - `test-results/**`
 
-_Generated 2026-11-21 22:45:29Z.
+_Generated 2026-11-21 23:49:13Z.
