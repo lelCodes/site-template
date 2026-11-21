@@ -10,7 +10,7 @@ import {
   THEMES,
 } from "@lvucodes/ui";
 
-const LICENSE_HREF = "https://github.com/lvuCodes/site-template/blob/main/LICENSE";
+const LICENSE_HREF = "https://github.com/lelCodes/site-template/blob/main/LICENSE";
 
 // RTL's automatic cleanup only runs under vitest `globals: true`; unmount
 // explicitly so renders don't stack across tests.
