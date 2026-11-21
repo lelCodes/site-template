@@ -1,6 +1,6 @@
 # site-template
 
-GitHub template repository for lelcodes.github.io sites. It is a Vite + React 19 + TypeScript starter that consumes the shared component library **[@lvucodes/ui](https://www.npmjs.com/package/@lvucodes/ui)** from npm, so every new site inherits the theme system, the theme switcher, the back link, the footer credits, and the shared lint configuration without copying any of it. The demo shell in [src/App.tsx](src/App.tsx) renders the switcher over a small panel of live token swatches; replace it with the real site while keeping the wiring intact.
+GitHub template repository for lelcodes.github.io sites. It is a Vite + React 19 + TypeScript starter that consumes the shared component library **[@lelcodes/ui](https://www.npmjs.com/package/@lelcodes/ui)** from npm, so every new site inherits the theme system, the theme switcher, the back link, the footer credits, and the shared lint configuration without copying any of it. The demo shell in [src/App.tsx](src/App.tsx) renders the switcher over a small panel of live token swatches; replace it with the real site while keeping the wiring intact.
 
 ## Usage
 
@@ -30,4 +30,4 @@ See [AI-USAGE.md](AI-USAGE.md).
 
 ## License
 
-GNU General Public License v3.0 or later — see [LICENSE](LICENSE). Copyright © 2026 lelCodes. `@lvucodes/ui` is published under GPL-3.0-or-later, so a site built from this template must also be licensed GPL-3.0-or-later and make its source available.
+GNU General Public License v3.0 or later — see [LICENSE](LICENSE). Copyright © 2026 lelCodes. `@lelcodes/ui` is published under GPL-3.0-or-later, so a site built from this template must also be licensed GPL-3.0-or-later and make its source available.

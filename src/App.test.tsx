@@ -8,7 +8,7 @@ import {
   BACK_LINK_DEFAULT_LABEL,
   DEFAULT_THEME,
   THEMES,
-} from "@lvucodes/ui";
+} from "@lelcodes/ui";
 
 const LICENSE_HREF = "https://github.com/lelCodes/site-template/blob/main/LICENSE";
 
